@@ -29,6 +29,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Development of Smart Contracts
 
+## About
+This project is maintained by [Solicy Software and Blockchain Company](https://solicy.net/?utm_source=github&utm_medium=social)
+
+
 Create a new contract under `contracts`. It must be of type `Contract` be exported as default. Use the other contracts as inspiration.
 
 Afterwards, add the contract to the `persistenceStorage.ts` file, to make it available to the dev-kit.
